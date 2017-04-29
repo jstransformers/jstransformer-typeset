@@ -1,5 +1,7 @@
 # jstransformer-typeset
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-typeset.svg)](https://greenkeeper.io/)
+
 [Typeset](https://github.com/davidmerfield/typeset) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-typeset/master.svg)](https://travis-ci.org/jstransformers/jstransformer-typeset)
