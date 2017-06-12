@@ -1,6 +1,6 @@
 'use strict'
 
-var typeset = require('typeset')
+const typeset = require('typeset')
 
 exports.name = 'typeset'
 exports.outputFormat = 'html'
