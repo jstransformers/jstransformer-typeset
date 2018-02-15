@@ -17,7 +17,7 @@ Optionally, also use the css from [here](https://raw.githubusercontent.com/david
 ## API
 
 ```js
-var typeset = require('jstransformer')(require('jstransformer-typeset'));
+var typeset = require('jstransformer')(require('jstransformer-typeset'))
 
 typeset.render('<p>"Hello," said the fox.</p>').body
 //=> '<p><span class="pull-double">“</span>Hello,” said the fox.</p>'
